@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gray-950: #030712;
+}
+
+@layer base {
+  *, ::after, ::before {
+    @apply border-gray-200 dark:border-gray-800 outline-hidden;
+  }
+
+  input, textarea, select {
+    @apply appearance-none;
+  }
+}
