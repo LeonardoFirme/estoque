@@ -53,8 +53,8 @@ Sistema ERP robusto desenvolvido para controle de estoque, inteligência finance
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/LeonardoFirme/erp-core.git
-cd erp-core
+git clone https://github.com/LeonardoFirme/estoque.git
+cd estoque
 
 ```
 
